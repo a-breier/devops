@@ -1,6 +1,10 @@
 ## DevOps Projektfeladat - Hello World App
 Ez egy egyszerű Nest.js alapú alkalmazás a DevOps órai beadandóhoz.
 
+**Készítette:** Breier Ádám
+**Neptunkód:** EW5HY4
+**Szak:** Mérnökinformatika Bsc
+
 ## 1. Helyi fejlesztés és futtatás
 
 A projekt előkészítése és függőségek telepítése:
